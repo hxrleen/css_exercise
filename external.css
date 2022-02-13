@@ -1,0 +1,12 @@
+div{
+    background-color: maroon;
+    font-size: larger;
+    font: beige;
+    font-style: italic;
+}
+p{
+    background-color: beige;
+    font-size: medium;
+    font: black;
+    font-style: italic;
+}
